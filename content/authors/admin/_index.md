@@ -68,12 +68,9 @@ email: 'farzeen.munir@aalto.fi'
 highlight_name: true
 ---
 <style>body {text-align: justify}</style>
-I am a postdoctoral researcher at the Mobile Robotics Lab, Aalto University under the mentorship of Professor [Tomasz Kuncer ](https://www.aalto.fi/en/people/tomasz-kucner).
-Farzeen Munir received a BS degree in Electrical Engineering from Pakistan Institute of Engineering and Applied Sciences, Pakistan in 2013,
-and an MS degree in System Engineering from Pakistan Institute of Engineering and Applied Sciences, Pakistan in 2015. She received her PhD
-from Gwangju Institute of Science and Technology, Korea in 2022.
+I am a postdoctoral researcher at the Mobile Robotics Lab, Aalto University under the mentorship of Professor [Tomasz Kuncer ](https://www.aalto.fi/en/people/tomasz-kucner). My research is centred around the development of socially-aware autonomous vehicles. The primary objective is to create vehicles that can accurately predict the intentions of pedestrians while simultaneously communicating their own intentions effectively to pedestrians. The significance of this research lies in its potential to enhance the safety and efficiency of autonomous vehicles in urban environments. By understanding and anticipating the actions of pedestrians, autonomous vehicles can proactively adjust their driving behaviour to avoid accidents and ensure smoother interactions with pedestrians.
 
-In her PhD, she worked on the system, design, and experimental validation of autonomous vehicle in an unconstrained environment.  Currently, she is a  postdoctoral researcher, she joined Korea Culture Technology Institute, Gwangju Institute of Science and Technology, South Korea, led by [Professor Moongu Jeon](https://sites.google.com/view/mlv/people/professor), where she worked on developing end-to-end solutions using deep learning for indoor robotics.  Her research interest includes deep learning, autonomous driving, visual perception, and representation learning.
+Previously I finished my PhD at Gwangju Institute of Science and Technology, South Korea and worked on developing data-driven methods for autonomous vehicle perception using unconventional sensors, for instance, event and thermal cameras. 
 
 
 
