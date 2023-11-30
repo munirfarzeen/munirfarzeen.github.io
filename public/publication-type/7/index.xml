@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Farzeen Munir</title>
+    <link>https://example.com/publication-type/7/</link>
+      <atom:link href="https://example.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://example.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic visual perception for Autonomous vehicles</title>
+      <link>https://example.com/publication/munir-2022-dynamic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2022-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Visual Object Tracking</title>
+      <link>https://example.com/publication/munir-2015-spatio/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2015-spatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of a Motor Controller for Humanoid Arm</title>
+      <link>https://example.com/publication/munir-2013-implementation/</link>
+      <pubDate>Sat, 13 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2013-implementation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

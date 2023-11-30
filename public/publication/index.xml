@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Farzeen Munir</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>An Evolutionary-Neural Mechanism for Arrhythmia Classification with Optimum Features using Single-Lead Electrocardiogram</title>
+      <link>https://example.com/publication/nasim-2022-evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nasim-2022-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARTSeg: Employing Attention for Thermal Images Semantic Segmentation</title>
+      <link>https://example.com/publication/munir-2022-artseg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2022-artseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic visual perception for Autonomous vehicles</title>
+      <link>https://example.com/publication/munir-2022-dynamic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2022-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring thermal images for object detection in underexposure regions for autonomous driving</title>
+      <link>https://example.com/publication/munir-2022-exploring/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2022-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction</title>
+      <link>https://example.com/publication/munir-2022-multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2022-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel boosting feature ensemble for radar-based object detection</title>
+      <link>https://example.com/publication/azam-2021-channel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2021-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMGNet: Driver’s Intent Prediction using Neurosignals</title>
+      <link>https://example.com/publication/azam-2021-emgnet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2021-emgnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key points estimation and point instance segmentation approach for lane detection</title>
+      <link>https://example.com/publication/ko-2021-key/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ko-2021-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDNet: end-to-end lane marking detection approach using a dynamic vision sensor</title>
+      <link>https://example.com/publication/munir-2021-ldnet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2021-ldnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified RC Car for uni-modal Autonomous Parking</title>
+      <link>https://example.com/publication/khan-2021-modified/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/khan-2021-modified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N 2 C: neural network controller design using behavioral cloning</title>
+      <link>https://example.com/publication/azam-2021-n/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2021-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSTN: Self-supervised domain adaptation thermal object detection for autonomous driving</title>
+      <link>https://example.com/publication/munir-2021-sstn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2021-sstn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Control System Design for Autonomous Car.</title>
+      <link>https://example.com/publication/azam-2020-dynamic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2020-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple objects tracking using radar for autonomous driving</title>
+      <link>https://example.com/publication/hussain-2020-multiple/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hussain-2020-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Mapping and Autonomous Navigation using TurtleBot</title>
+      <link>https://example.com/publication/munir-2020-semantic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2020-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System, design and experimental validation of autonomous vehicle in an unconstrained environment</title>
+      <link>https://example.com/publication/azam-2020-system/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2020-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning for vehicle detection using two cameras with different focal lengths</title>
+      <link>https://example.com/publication/dinh-2020-transfer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dinh-2020-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visuomotor Steering angle Prediction in Dynamic Perception Environment for Autonomous Vehicle</title>
+      <link>https://example.com/publication/munir-2020-visuomotor/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2020-visuomotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Taxi Booking Operations for Autonomous Vehicles</title>
+      <link>https://example.com/publication/van-2019-automated/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/van-2019-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data fusion of lidar and thermal camera for autonomous driving</title>
+      <link>https://example.com/publication/azam-2019-data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2019-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disparity estimation using stereo images with different focal lengths</title>
+      <link>https://example.com/publication/dinh-2019-disparity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dinh-2019-disparity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MILAMP: multiple instance prediction of amyloid proteins</title>
+      <link>https://example.com/publication/munir-2019-milamp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2019-milamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Prediction and Obstacle Avoidance for Self-driving Car</title>
+      <link>https://example.com/publication/munir-2019-motion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2019-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where Am I: Localization and 3D Maps for Autonomous Vehicles.</title>
+      <link>https://example.com/publication/munir-2019-localization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2019-localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous vehicle: The architecture aspect of self driving car</title>
+      <link>https://example.com/publication/munir-2018-autonomous/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2018-autonomous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object modeling from 3d point cloud data for self-driving vehicles</title>
+      <link>https://example.com/publication/azam-2018-object/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2018-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real time eye tracking using Kalman extended spatio-temporal context learning</title>
+      <link>https://example.com/publication/munir-real-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-real-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Labelling of 3D Point Cloud Data</title>
+      <link>https://example.com/publication/munir-2017-automated/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2017-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyLEMMINGS: Large Margin Multiple Instance Classification and Ranking for Bioinformatics Applications</title>
+      <link>https://example.com/publication/asif-2017-pylemmings/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/asif-2017-pylemmings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Visual Object Tracking</title>
+      <link>https://example.com/publication/munir-2015-spatio/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2015-spatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of a Motor Controller for Humanoid Arm</title>
+      <link>https://example.com/publication/munir-2013-implementation/</link>
+      <pubDate>Sat, 13 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2013-implementation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

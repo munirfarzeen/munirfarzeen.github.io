@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Farzeen Munir</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>An Evolutionary-Neural Mechanism for Arrhythmia Classification with Optimum Features using Single-Lead Electrocardiogram</title>
+      <link>https://example.com/publication/nasim-2022-evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nasim-2022-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring thermal images for object detection in underexposure regions for autonomous driving</title>
+      <link>https://example.com/publication/munir-2022-exploring/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2022-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction</title>
+      <link>https://example.com/publication/munir-2022-multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2022-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key points estimation and point instance segmentation approach for lane detection</title>
+      <link>https://example.com/publication/ko-2021-key/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ko-2021-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDNet: end-to-end lane marking detection approach using a dynamic vision sensor</title>
+      <link>https://example.com/publication/munir-2021-ldnet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2021-ldnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N 2 C: neural network controller design using behavioral cloning</title>
+      <link>https://example.com/publication/azam-2021-n/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2021-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System, design and experimental validation of autonomous vehicle in an unconstrained environment</title>
+      <link>https://example.com/publication/azam-2020-system/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/azam-2020-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning for vehicle detection using two cameras with different focal lengths</title>
+      <link>https://example.com/publication/dinh-2020-transfer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dinh-2020-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disparity estimation using stereo images with different focal lengths</title>
+      <link>https://example.com/publication/dinh-2019-disparity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dinh-2019-disparity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MILAMP: multiple instance prediction of amyloid proteins</title>
+      <link>https://example.com/publication/munir-2019-milamp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munir-2019-milamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyLEMMINGS: Large Margin Multiple Instance Classification and Ranking for Bioinformatics Applications</title>
+      <link>https://example.com/publication/asif-2017-pylemmings/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/asif-2017-pylemmings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Farzeen Munir</title>
+    <link>https://example.com/tag/deep-learning/</link>
+      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://example.com/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>BeetleBot</title>
+      <link>https://example.com/project/beetlebot/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/beetlebot/</guid>
+      <description>&lt;p&gt;The recent development in the field of mobile robotics has made them available for commercial and research  purposes.  The  primary  challenges  that  are  encountered  by  deploying  the  mobile  robot  in  a dynamic environment is mapping and navigation. Simultaneous localization and mapping (SLAM) provide a good understanding of the environment for navigation and path planning. In this work, we explore the problem  of  mapping  and  navigation  by  incorporating  the  semantics  of  the  environment.  For  the experimental  setup,  a  robot  (BeetleBot)  is  designed  having  equipped  with  Kobuki  mobile  base, Realsense  RGB-D  camera,  range  sensors  and  NVidia  Jetson  Xavier  as  computation  computer.  The autonomous semantic mapping and navigation are performed using RTAB-MAP with the inclusion of A* algorithm for exploring and updating the unknown environment and deep learning-based object detection algorithm. A Proportional-Integral-Derivative (PID) is implemented as a controller for the BeetleBOT. We have used the Robot Operating System (ROS) as a software development platform for the BeetleBOT. The experimental evaluation shows the mapping and localization efficacy using the BeetleBOT as our mobile robot.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overall-architecture-of-beetlebot-using-ros-framework&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall architecture of BeetleBot using ROS framework.&#34; srcset=&#34;
+               /media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_34fc29d8b43d9dfd78052aa91a6d4f42.webp 400w,
+               /media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_8a3285a087b464f2ef6431c68cd5cbe6.webp 760w,
+               /media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_34fc29d8b43d9dfd78052aa91a6d4f42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;369&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Overall architecture of BeetleBot using ROS framework.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The demonstration video of the project.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/robot%20navigation%202.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/video_2021-11-01_01-05-52.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Car.MLV.ai~Autonomous Vehicle</title>
+      <link>https://example.com/project/car.mlv.ai/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/car.mlv.ai/</guid>
+      <description>&lt;p&gt;In this study, we have developed an autonomous vehicle using limited sensor suite as compared to autonomous vehicles discussed previously. Figure  illustrates our test-bed called Car.Mlv.ai. The efficacy of our autonomous vehicle is experimentally verified by deploying it as an automated taxi service in the constrained environment. The proposed autonomous vehicle is composed of localization, perception, planning and control modules. The design of a distributed system and incorporation of robust algorithms enable the autonomous vehicle to perform efficiently. The fusion of sensor data for localization in map generation and navigation and also in perception module enable reliable object detection, recognition and classification in a dynamic environment. In the planning module, the optimal path is devised by considering the lane, obstacle information, and upon which velocity and behaviour planning are executed. Finally, based on the planning results, the control module performs the lateral and longitudinal control of the autonomous vehicle.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overall-architecture-of-our-autonomous-vehicle-system-it-includes-sensors-perception-planning-and-control-modules&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall architecture of our autonomous vehicle system. It includes sensors, perception, planning and control modules &#34; srcset=&#34;
+               /media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_bbad5234fdac89d5ee633263969e172c.webp 400w,
+               /media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_61f571b345ff4bcb7e7fd17a78c2aa01.webp 760w,
+               /media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_bbad5234fdac89d5ee633263969e172c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;438&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Overall architecture of our autonomous vehicle system. It includes sensors, perception, planning and control modules
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The architecture of the autonomous vehicle is composed of four major layers, as illustrated in Figure above, that are sensor layer, perception layer, planning layer and control layer. The sensor layer constitutes of exteroceptive and proprioceptive sensor modalities which provide the data to the different layer’s modules. In the perception layer, the two main elements that contribute toward the environment understanding are detection and localization. The understanding of the environment in the perception layer provides the necessary information to the planning layer. The planning layer devises the motion, mission and trajectory planning of the autonomous vehicle based on the observation accumulated in the perception layer. The decision from the planning layer is fed to the control layer for the execution of the control command to vehicle actuators through the lateral and longitudinal controller. The following subsections describe the modules used in perception, planning and control layers for the autonomous vehicle.&lt;/p&gt;
+&lt;p&gt;The demonstration video of the project.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/main_route.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Demo of Avoiding the dog.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/obstacle_avoid_demo%20%281%29.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Demo of Obstacle Stopping at the Entrance or Exit Gate Barrier.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/obstacle_avoid_demo_front_gate%20%281%29.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Demo of Obstacle Stopping upon detection pedestrain.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/obstacle_detection.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Driving in the campus.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/obstacle_detection_1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Demo of Obstacle Detection using RGB and Thermal Camera and Projection in the Lidar Frame.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/car_night.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+News coverage of our project sponsored by GIST.
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://example.com/media/ezgif.com-gif-maker.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
