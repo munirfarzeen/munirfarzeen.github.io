@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Farzeen Munir</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://munirfarzeen.github.io./</link>
+      <atom:link href="https://munirfarzeen.github.io./index.xml" rel="self" type="application/rss+xml" />
     <description>Farzeen Munir</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
+      <url>https://munirfarzeen.github.io./media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
       <title>Farzeen Munir</title>
-      <link>https://example.com/</link>
+      <link>https://munirfarzeen.github.io./</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://munirfarzeen.github.io./talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://munirfarzeen.github.io./talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>BeetleBot</title>
-      <link>https://example.com/project/beetlebot/</link>
+      <link>https://munirfarzeen.github.io./project/beetlebot/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/beetlebot/</guid>
+      <guid>https://munirfarzeen.github.io./project/beetlebot/</guid>
       <description>&lt;p&gt;The recent development in the field of mobile robotics has made them available for commercial and research  purposes.  The  primary  challenges  that  are  encountered  by  deploying  the  mobile  robot  in  a dynamic environment is mapping and navigation. Simultaneous localization and mapping (SLAM) provide a good understanding of the environment for navigation and path planning. In this work, we explore the problem  of  mapping  and  navigation  by  incorporating  the  semantics  of  the  environment.  For  the experimental  setup,  a  robot  (BeetleBot)  is  designed  having  equipped  with  Kobuki  mobile  base, Realsense  RGB-D  camera,  range  sensors  and  NVidia  Jetson  Xavier  as  computation  computer.  The autonomous semantic mapping and navigation are performed using RTAB-MAP with the inclusion of A* algorithm for exploring and updating the unknown environment and deep learning-based object detection algorithm. A Proportional-Integral-Derivative (PID) is implemented as a controller for the BeetleBOT. We have used the Robot Operating System (ROS) as a software development platform for the BeetleBOT. The experimental evaluation shows the mapping and localization efficacy using the BeetleBOT as our mobile robot.&lt;/p&gt;
 
 
@@ -57,10 +57,10 @@
 &lt;figure  id=&#34;figure-overall-architecture-of-beetlebot-using-ros-framework&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall architecture of BeetleBot using ROS framework.&#34; srcset=&#34;
-               /media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_50a5749fc58fe55da2b2481dc091d524.webp 400w,
+               /media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_9f640d87928ee35e1cc9e383f449ae18.webp 400w,
                /media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_f219b8a0b0981f025879c39ffb411c6f.webp 760w,
                /media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_50a5749fc58fe55da2b2481dc091d524.webp&#34;
+               src=&#34;https://munirfarzeen.github.io./media/turtlebot_hufa6ccf348658e8a4b78494a96f18ce67_159165_9f640d87928ee35e1cc9e383f449ae18.webp&#34;
                width=&#34;760&#34;
                height=&#34;369&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -84,7 +84,7 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/robot%20navigation%202.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/robot%20navigation%202.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
 
@@ -102,56 +102,56 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/video_2021-11-01_01-05-52.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/video_2021-11-01_01-05-52.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Evolutionary-Neural Mechanism for Arrhythmia Classification with Optimum Features using Single-Lead Electrocardiogram</title>
-      <link>https://example.com/publication/nasim-2022-evolutionary/</link>
+      <link>https://munirfarzeen.github.io./publication/nasim-2022-evolutionary/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nasim-2022-evolutionary/</guid>
+      <guid>https://munirfarzeen.github.io./publication/nasim-2022-evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARTSeg: Employing Attention for Thermal Images Semantic Segmentation</title>
-      <link>https://example.com/publication/munir-2022-artseg/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2022-artseg/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2022-artseg/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2022-artseg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic visual perception for Autonomous vehicles</title>
-      <link>https://example.com/publication/munir-2022-dynamic/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2022-dynamic/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2022-dynamic/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2022-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring thermal images for object detection in underexposure regions for autonomous driving</title>
-      <link>https://example.com/publication/munir-2022-exploring/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2022-exploring/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2022-exploring/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2022-exploring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction</title>
-      <link>https://example.com/publication/munir-2022-multi/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2022-multi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2022-multi/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2022-multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Car.MLV.ai~Autonomous Vehicle</title>
-      <link>https://example.com/project/car.mlv.ai/</link>
+      <link>https://munirfarzeen.github.io./project/car.mlv.ai/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/car.mlv.ai/</guid>
+      <guid>https://munirfarzeen.github.io./project/car.mlv.ai/</guid>
       <description>&lt;p&gt;In this study, we have developed an autonomous vehicle using limited sensor suite as compared to autonomous vehicles discussed previously. Figure  illustrates our test-bed called Car.Mlv.ai. The efficacy of our autonomous vehicle is experimentally verified by deploying it as an automated taxi service in the constrained environment. The proposed autonomous vehicle is composed of localization, perception, planning and control modules. The design of a distributed system and incorporation of robust algorithms enable the autonomous vehicle to perform efficiently. The fusion of sensor data for localization in map generation and navigation and also in perception module enable reliable object detection, recognition and classification in a dynamic environment. In the planning module, the optimal path is devised by considering the lane, obstacle information, and upon which velocity and behaviour planning are executed. Finally, based on the planning results, the control module performs the lateral and longitudinal control of the autonomous vehicle.&lt;/p&gt;
 
 
@@ -172,10 +172,10 @@
 &lt;figure  id=&#34;figure-overall-architecture-of-our-autonomous-vehicle-system-it-includes-sensors-perception-planning-and-control-modules&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall architecture of our autonomous vehicle system. It includes sensors, perception, planning and control modules &#34; srcset=&#34;
-               /media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_7c0b8d43fa98fdce63952494d82dba27.webp 400w,
+               /media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_0216d9dbd52fadab49c4fd0814dd882b.webp 400w,
                /media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_624c988abdb2f386675e502fe44207da.webp 760w,
                /media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_7c0b8d43fa98fdce63952494d82dba27.webp&#34;
+               src=&#34;https://munirfarzeen.github.io./media/archi_huf9f2fbba83e6a3f36486cd09dd542cbf_305126_0216d9dbd52fadab49c4fd0814dd882b.webp&#34;
                width=&#34;760&#34;
                height=&#34;438&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -200,7 +200,7 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/main_route.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/main_route.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 Demo of Avoiding the dog.
 
@@ -219,7 +219,7 @@ Demo of Avoiding the dog.
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/obstacle_avoid_demo%20%281%29.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/obstacle_avoid_demo%20%281%29.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 Demo of Obstacle Stopping at the Entrance or Exit Gate Barrier.
 
@@ -238,7 +238,7 @@ Demo of Obstacle Stopping at the Entrance or Exit Gate Barrier.
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/obstacle_avoid_demo_front_gate%20%281%29.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/obstacle_avoid_demo_front_gate%20%281%29.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 Demo of Obstacle Stopping upon detection pedestrain.
 
@@ -257,7 +257,7 @@ Demo of Obstacle Stopping upon detection pedestrain.
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/obstacle_detection.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/obstacle_detection.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 Driving in the campus.
 
@@ -276,7 +276,7 @@ Driving in the campus.
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/obstacle_detection_1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/obstacle_detection_1.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 Demo of Obstacle Detection using RGB and Thermal Camera and Projection in the Lidar Frame.
 
@@ -295,7 +295,7 @@ Demo of Obstacle Detection using RGB and Thermal Camera and Projection in the Li
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/car_night.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/car_night.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 News coverage of our project sponsored by GIST.
 
@@ -314,72 +314,72 @@ News coverage of our project sponsored by GIST.
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://example.com/media/ezgif.com-gif-maker.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://munirfarzeen.github.io./media/ezgif.com-gif-maker.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel boosting feature ensemble for radar-based object detection</title>
-      <link>https://example.com/publication/azam-2021-channel/</link>
+      <link>https://munirfarzeen.github.io./publication/azam-2021-channel/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/azam-2021-channel/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2021-channel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EMGNet: Driver’s Intent Prediction using Neurosignals</title>
-      <link>https://example.com/publication/azam-2021-emgnet/</link>
+      <link>https://munirfarzeen.github.io./publication/azam-2021-emgnet/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/azam-2021-emgnet/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2021-emgnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key points estimation and point instance segmentation approach for lane detection</title>
-      <link>https://example.com/publication/ko-2021-key/</link>
+      <link>https://munirfarzeen.github.io./publication/ko-2021-key/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ko-2021-key/</guid>
+      <guid>https://munirfarzeen.github.io./publication/ko-2021-key/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LDNet: end-to-end lane marking detection approach using a dynamic vision sensor</title>
-      <link>https://example.com/publication/munir-2021-ldnet/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2021-ldnet/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2021-ldnet/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2021-ldnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modified RC Car for uni-modal Autonomous Parking</title>
-      <link>https://example.com/publication/khan-2021-modified/</link>
+      <link>https://munirfarzeen.github.io./publication/khan-2021-modified/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/khan-2021-modified/</guid>
+      <guid>https://munirfarzeen.github.io./publication/khan-2021-modified/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N 2 C: neural network controller design using behavioral cloning</title>
-      <link>https://example.com/publication/azam-2021-n/</link>
+      <link>https://munirfarzeen.github.io./publication/azam-2021-n/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/azam-2021-n/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2021-n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSTN: Self-supervised domain adaptation thermal object detection for autonomous driving</title>
-      <link>https://example.com/publication/munir-2021-sstn/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2021-sstn/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2021-sstn/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2021-sstn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://munirfarzeen.github.io./post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://munirfarzeen.github.io./post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -455,57 +455,57 @@ News coverage of our project sponsored by GIST.
     
     <item>
       <title>Dynamic Control System Design for Autonomous Car.</title>
-      <link>https://example.com/publication/azam-2020-dynamic/</link>
+      <link>https://munirfarzeen.github.io./publication/azam-2020-dynamic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/azam-2020-dynamic/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2020-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple objects tracking using radar for autonomous driving</title>
-      <link>https://example.com/publication/hussain-2020-multiple/</link>
+      <link>https://munirfarzeen.github.io./publication/hussain-2020-multiple/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hussain-2020-multiple/</guid>
+      <guid>https://munirfarzeen.github.io./publication/hussain-2020-multiple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Mapping and Autonomous Navigation using TurtleBot</title>
-      <link>https://example.com/publication/munir-2020-semantic/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2020-semantic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2020-semantic/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2020-semantic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System, design and experimental validation of autonomous vehicle in an unconstrained environment</title>
-      <link>https://example.com/publication/azam-2020-system/</link>
+      <link>https://munirfarzeen.github.io./publication/azam-2020-system/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/azam-2020-system/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2020-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transfer learning for vehicle detection using two cameras with different focal lengths</title>
-      <link>https://example.com/publication/dinh-2020-transfer/</link>
+      <link>https://munirfarzeen.github.io./publication/dinh-2020-transfer/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dinh-2020-transfer/</guid>
+      <guid>https://munirfarzeen.github.io./publication/dinh-2020-transfer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visuomotor Steering angle Prediction in Dynamic Perception Environment for Autonomous Vehicle</title>
-      <link>https://example.com/publication/munir-2020-visuomotor/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2020-visuomotor/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2020-visuomotor/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2020-visuomotor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://munirfarzeen.github.io./slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://munirfarzeen.github.io./slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -628,113 +628,113 @@ $$&lt;/p&gt;
     
     <item>
       <title>Automated Taxi Booking Operations for Autonomous Vehicles</title>
-      <link>https://example.com/publication/van-2019-automated/</link>
+      <link>https://munirfarzeen.github.io./publication/van-2019-automated/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/van-2019-automated/</guid>
+      <guid>https://munirfarzeen.github.io./publication/van-2019-automated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data fusion of lidar and thermal camera for autonomous driving</title>
-      <link>https://example.com/publication/azam-2019-data/</link>
+      <link>https://munirfarzeen.github.io./publication/azam-2019-data/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/azam-2019-data/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2019-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disparity estimation using stereo images with different focal lengths</title>
-      <link>https://example.com/publication/dinh-2019-disparity/</link>
+      <link>https://munirfarzeen.github.io./publication/dinh-2019-disparity/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dinh-2019-disparity/</guid>
+      <guid>https://munirfarzeen.github.io./publication/dinh-2019-disparity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MILAMP: multiple instance prediction of amyloid proteins</title>
-      <link>https://example.com/publication/munir-2019-milamp/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2019-milamp/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2019-milamp/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2019-milamp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Prediction and Obstacle Avoidance for Self-driving Car</title>
-      <link>https://example.com/publication/munir-2019-motion/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2019-motion/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2019-motion/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2019-motion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where Am I: Localization and 3D Maps for Autonomous Vehicles.</title>
-      <link>https://example.com/publication/munir-2019-localization/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2019-localization/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2019-localization/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2019-localization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous vehicle: The architecture aspect of self driving car</title>
-      <link>https://example.com/publication/munir-2018-autonomous/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2018-autonomous/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2018-autonomous/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2018-autonomous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Object modeling from 3d point cloud data for self-driving vehicles</title>
-      <link>https://example.com/publication/azam-2018-object/</link>
+      <link>https://munirfarzeen.github.io./publication/azam-2018-object/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/azam-2018-object/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2018-object/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real time eye tracking using Kalman extended spatio-temporal context learning</title>
-      <link>https://example.com/publication/munir-real-2017/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-real-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-real-2017/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-real-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Labelling of 3D Point Cloud Data</title>
-      <link>https://example.com/publication/munir-2017-automated/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2017-automated/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2017-automated/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2017-automated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pyLEMMINGS: Large Margin Multiple Instance Classification and Ranking for Bioinformatics Applications</title>
-      <link>https://example.com/publication/asif-2017-pylemmings/</link>
+      <link>https://munirfarzeen.github.io./publication/asif-2017-pylemmings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asif-2017-pylemmings/</guid>
+      <guid>https://munirfarzeen.github.io./publication/asif-2017-pylemmings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatio-Temporal Visual Object Tracking</title>
-      <link>https://example.com/publication/munir-2015-spatio/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2015-spatio/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2015-spatio/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2015-spatio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation of a Motor Controller for Humanoid Arm</title>
-      <link>https://example.com/publication/munir-2013-implementation/</link>
+      <link>https://munirfarzeen.github.io./publication/munir-2013-implementation/</link>
       <pubDate>Sat, 13 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/munir-2013-implementation/</guid>
+      <guid>https://munirfarzeen.github.io./publication/munir-2013-implementation/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://munirfarzeen.github.io./admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://munirfarzeen.github.io./admin/config.yml</guid>
       <description></description>
     </item>
     
