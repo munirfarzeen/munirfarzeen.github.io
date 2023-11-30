@@ -28,4 +28,3 @@ git add .
 git commit -m "updated"
 git push origin gh-pages
 ```
-4. The website will be live with the changes at [https://safeav.github.io/]

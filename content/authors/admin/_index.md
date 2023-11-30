@@ -6,12 +6,12 @@ title: Farzeen Munir, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher at KCTI
+role: Postdoctoral researcher at Aalto University & Finnish Center of Artifical Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Gwangju Institute of Science and Technology
-    url: https://www.gist.ac.kr
+  - name: Aalto University
+    url: https://www.aalto.fi/fi
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -62,12 +62,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'farzeen.munir@gm.gist.ac.kr'
+email: 'farzeen.munir@aalto.fi'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 <style>body {text-align: justify}</style>
+I am a postdoctoral researcher at the Mobile Robotics Lab, Aalto University under the mentorship of Professor [Tomasz Kuncer ](https://www.aalto.fi/en/people/tomasz-kucner).
 Farzeen Munir received a BS degree in Electrical Engineering from Pakistan Institute of Engineering and Applied Sciences, Pakistan in 2013,
 and an MS degree in System Engineering from Pakistan Institute of Engineering and Applied Sciences, Pakistan in 2015. She received her PhD
 from Gwangju Institute of Science and Technology, Korea in 2022.
@@ -76,4 +77,4 @@ In her PhD, she worked on the system, design, and experimental validation of aut
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
