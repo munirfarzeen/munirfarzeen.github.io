@@ -40,7 +40,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [author]
   name = "Farzeen Munir"
-  homepage = "https://farzeenmunir.com"
+  homepage = "https://munirfarzeen.github.io"
 
 # If porting an existing theme
 [original]
