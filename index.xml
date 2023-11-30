@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Multimodal fusion for sensorimotor control in steering angle prediction</title>
+      <link>https://munirfarzeen.github.io./publication/munir-2023-multimodal/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://munirfarzeen.github.io./publication/munir-2023-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks</title>
+      <link>https://munirfarzeen.github.io./publication/munir-2023-radar/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://munirfarzeen.github.io./publication/munir-2023-radar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BeetleBot</title>
       <link>https://munirfarzeen.github.io./project/beetlebot/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
@@ -140,10 +156,10 @@
     </item>
     
     <item>
-      <title>Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction</title>
-      <link>https://munirfarzeen.github.io./publication/munir-2022-multi/</link>
+      <title>Learning Driving Policies for End-to-End Autonomous Driving</title>
+      <link>https://munirfarzeen.github.io./publication/azam-2022-learning/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://munirfarzeen.github.io./publication/munir-2022-multi/</guid>
+      <guid>https://munirfarzeen.github.io./publication/azam-2022-learning/</guid>
       <description></description>
     </item>
     
