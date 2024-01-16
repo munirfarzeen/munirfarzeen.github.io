@@ -1,8 +1,8 @@
 ---
 title: " Exploring Large Language Models for Trajectory Prediction: A Technical Perspective"
-date: 2024-03-01
-publishDate: 2024-03-26T08:45:08.118393Z
-authors: ["admin", "Tsvetomila Mihaylova","Shoaib Azam", " Tomasz Piotr Kucner","Ville Kyrki "]
+date: 2024-01-01
+publishDate: 2024-01-2T08:45:08.118393Z
+authors: ["admin", "Tsvetomila Mihaylova","Shoaib Azam", " Tomasz Piotr Kucner","Ville Kyrki"]
 publication_types: ["1"]
 abstract: ""
 featured: false
