@@ -5,12 +5,20 @@
     <link>https://munirfarzeen.github.io./publication-type/1/</link>
       <atom:link href="https://munirfarzeen.github.io./publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://munirfarzeen.github.io./media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://munirfarzeen.github.io./publication-type/1/</link>
     </image>
+    
+    <item>
+      <title> Exploring Large Language Models for Trajectory Prediction: A Technical Perspective</title>
+      <link>https://munirfarzeen.github.io./publication/munir-2024-explore/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://munirfarzeen.github.io./publication/munir-2024-explore/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks</title>
