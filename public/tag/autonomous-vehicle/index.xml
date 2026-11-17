@@ -5,12 +5,55 @@
     <link>https://munirfarzeen.github.io./tag/autonomous-vehicle/</link>
       <atom:link href="https://munirfarzeen.github.io./tag/autonomous-vehicle/index.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous Vehicle</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://munirfarzeen.github.io./media/icon_hu71df4acb26db2b7b409c33d00b1abd17_7999_512x512_fill_lanczos_center_3.png</url>
       <title>Autonomous Vehicle</title>
       <link>https://munirfarzeen.github.io./tag/autonomous-vehicle/</link>
     </image>
+    
+    <item>
+      <title>Learning Socially Aware Behaviors (Academy Research Fellowship)</title>
+      <link>https://munirfarzeen.github.io./project/socially-aware-perception/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://munirfarzeen.github.io./project/socially-aware-perception/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Learning Socially Aware Behaviors: Developing Autonomous Systems with Situational Awareness in Dynamic Environments&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Funder&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Research Council of Finland, Academy Research Fellowship (decision no. 377983)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Host&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Aalto University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Period&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2026 – 2030&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Principal investigator&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Farzeen Munir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Autonomous systems that share space with people need more than accurate object detection. They also have to understand &lt;em&gt;social&lt;/em&gt; cues. A pedestrian glancing at an approaching car, slowing down at the kerb, or turning their head toward the road all signal what they are likely to do next. Human drivers read these cues without thinking; today&amp;rsquo;s autonomous vehicles mostly do not.&lt;/p&gt;
+&lt;p&gt;This project develops &lt;strong&gt;Socially Aware Perception (SA2S)&lt;/strong&gt;, a perception framework that lets autonomous systems interpret gaze, attention and intent. For example, it should recognise when a pedestrian is about to cross the street. Its main research directions are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Multimodal perception:&lt;/strong&gt; fusing camera, radar and lidar data to get a robust view of the people around the vehicle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human gaze and cognitive behavior:&lt;/strong&gt; using insights into how people attend to traffic to anticipate their next actions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Probabilistic reasoning:&lt;/strong&gt; explicitly modelling risk and uncertainty, so that the system&amp;rsquo;s decisions are safe and its behavior is understandable to the people it interacts with.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The overall goal is safer, more transparent and human-centred autonomous systems. The project builds on my earlier work on pedestrian intention and trajectory prediction (&lt;a href=&#34;https://munirfarzeen.github.io./publication/munir-2025-ptinet/&#34;&gt;PTINet&lt;/a&gt;) and vision-language models for explainable pedestrian behavior (&lt;a href=&#34;https://munirfarzeen.github.io./publication/munir-2025-pedvlm/&#34;&gt;PedVLM&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Car.MLV.ai~Autonomous Vehicle</title>

@@ -6,7 +6,7 @@ title: Farzeen Munir, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher at Aalto University & Finnish Center of Artifical Intelligence
+role: Academy Research Fellow at Aalto University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
     url: https://www.aalto.fi/fi
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on socially aware autonomous systems that understand, anticipate and communicate with the people around them.
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
-  - Visual Perception
-  - Representation Learning
+  - Socially Aware Autonomous Systems
+  - Pedestrian Behavior Modeling
+  - Vision-Language Models
+  - Multimodal Perception
   - Autonomous Driving
 
 # Education to show in About widget
@@ -68,10 +69,8 @@ email: 'farzeen.munir@aalto.fi'
 highlight_name: true
 ---
 <style>body {text-align: justify}</style>
-I am a postdoctoral researcher at the Mobile Robotics Lab, Aalto University under the mentorship of Professor [Tomasz Kuncer ](https://www.aalto.fi/en/people/tomasz-kucner). My research is centred around the development of socially-aware autonomous vehicles. The primary objective is to create vehicles that can accurately predict the intentions of pedestrians while simultaneously communicating their own intentions effectively to pedestrians. The significance of this research lies in its potential to enhance the safety and efficiency of autonomous vehicles in urban environments. By understanding and anticipating the actions of pedestrians, autonomous vehicles can proactively adjust their driving behaviour to avoid accidents and ensure smoother interactions with pedestrians.
+I am an Academy Research Fellow in the [Intelligent Robotics group](https://irobotics.aalto.fi/) led by Professor [Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki) at Aalto University. My research is about socially aware autonomous systems: vehicles and robots that can read human social cues such as gaze, attention and intent, anticipate what people will do next, and communicate their own intentions clearly.
 
-Previously I finished my PhD at Gwangju Institute of Science and Technology, South Korea and worked on developing data-driven methods for autonomous vehicle perception using unconventional sensors, for instance, event and thermal cameras. 
-
-
+My fellowship is funded by the Research Council of Finland (2026–2030). In it I lead the project [*Learning Socially Aware Behaviors: Developing Autonomous Systems with Situational Awareness in Dynamic Environments*](/project/socially-aware-perception/). The project develops Socially Aware Perception (SA2S), a framework that combines camera, radar and lidar data with insights from human gaze and cognitive behavior to anticipate what people will do next. For example, it should recognise when a pedestrian is about to cross the street. SA2S also uses probabilistic reasoning to account for risk and uncertainty. The aim is autonomous systems that are safer, easier to understand and more human-centred.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
